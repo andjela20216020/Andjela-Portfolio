@@ -1,0 +1,69 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+svg{
+  margin: 100px;
+  text-algin: center;
+  width: 600px;
+  height: 600px;
+  margin-left: 420px;
+}
+.srce {
+  fill: #ee3672;
+}
+.srce:hover{
+  fill: orange;
+  transform: scale(0.5);
+}
+
+.usne {
+  fill: #feea0e;
+}
+.usne:hover{
+  fill: black
+}
+
+.oci {
+  fill: #39469d;
+}
+.oci:hover{
+  fill: white;
+  transform: translateY(20px);
+}
+
+.oci2 {
+  fill: #39469d;
+}
+.oci2:hover{
+  fill: yellow;
+  transition:  transform 0.1s;
+  transform: scale(0.9);
+}
+
+.linija {
+  stroke: #6abd45;
+  stroke-width: 10.1px;
+}
+.linija{
+  fill: none;
+  stroke-miterlimit: 10;
+} 
+.linija:hover{
+  stroke: blue;
+  scale: 110%;
+  stroke-width: 20px;
+}
+.suza {
+  fill: none;
+  stroke-miterlimit: 10;
+}
+.suza:hover{
+  fill: blue;
+  stroke: none
+}
+
+.suza {
+  stroke: #70cee9;
+  stroke-width: 7px;
+}

@@ -1,0 +1,138 @@
+html{
+	background-color: #fcdcfc;
+}
+
+#cao{
+	font-family: Verdana;
+	color: #662a56;
+	margin-top: 50px;
+	font-size: 40px;
+	margin-left: 15%;
+}
+#pocetna{
+	font-family: Verdana;
+	font-size: 20px;
+	position: absolute;
+	top: 8px;
+	right: 16px;
+}
+#tekst1{
+	font-family: Verdana;
+	color: #662a56;
+	text-align: left;
+  	font-size: 25px;
+  	margin-right: 15%;
+  	margin-left: 15%;
+}
+#izi{
+	text-align: center;
+	margin-top: 80px;
+}
+#izi1{
+	margin-right: 10px;
+}
+#izitekst{
+	text-align: center;
+	font-family: Verdana;
+	color: #662a56;
+	margin-left: 300px;
+  	margin-right: 300px;
+  	font-size: 20px;
+}
+#more{
+	text-align: center;
+	margin-top: 80px;
+}
+#mi{
+	margin-bottom: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#leto{
+	text-align: center;
+	font-family: Verdana;
+	color: #662a56;
+	margin-left: 300px;
+  	margin-right: 300px;
+  	font-size: 20px;
+}
+#slike{
+	text-align: center;
+	margin-top: 80px;
+}
+#slika1{
+	margin-right: 10px;
+}
+#slikanjetekst{
+	text-align: center;
+	font-family: Verdana;
+	color: #662a56;
+	margin-left: 300px;
+  	margin-right: 300px;
+  	font-size: 20px;
+}
+#ja{
+	text-align: center;
+	margin-top: 80px;
+}
+#jatekst{
+	text-align: center;
+	font-family: Verdana;
+	color: #662a56;
+	margin-left: 300px;
+  	margin-right: 300px;
+  	font-size: 20px;
+}
+#zakljucak{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 25px;
+	color: #662a56;
+	margin-top: 80px;
+	margin-right: 45%;
+	margin-left: 5px;
+}
+
+#info{
+	text-align: left;
+	font-family: Verdana;
+	font-size: 16px;
+	color: #662a56;
+	margin-top: 80px;
+	margin-left: 65%;
+	margin-right: 5px;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    background-color: #c26dcf;
+    padding:10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+a.button:hover {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+    background-color: #d788e3;
+    padding:10px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+ 	transform: translateY(5px);
+}
+
+
+
+
+
+
+
